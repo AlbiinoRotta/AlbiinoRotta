@@ -15,7 +15,7 @@
   <a href="https://www.youtube.com/@AlbiinoRotta">
     <img alt="YouTube" src="https://img.shields.io/badge/AlbiinoRotta-FF0000?logo=youtube&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://store.albiinorotta.com">
+  <a href="https://albiinorotta.tebex.io">
   <img alt="Tebex Store" src="https://img.shields.io/badge/Tebex%20Store-00BFFF?style=for-the-badge&logoColor=white">
   </a>
   <a href="https://www.bahu.pro">
@@ -44,9 +44,9 @@
 
 <h3 align="center">🧩 My FiveM Scripts</h3>
 <p align="center">
-  Check out my custom-made scripts on my <a href="https://store.albiinorotta.com"><b>Tebex Store</b></a>!  
+  Check out my custom-made scripts on my <a href="https://albiinorotta.tebex.io"><b>Tebex Store</b></a>!  
   <br/><br/>
-  <a href="https://store.albiinorotta.com">
+  <a href="https://albiinorotta.tebex.io">
     <img alt="Tebex Store" src="https://img.shields.io/badge/View%20My%20Scripts-00BFFF?style=for-the-badge&logo=lua&logoColor=white">
   </a>
 </p>
